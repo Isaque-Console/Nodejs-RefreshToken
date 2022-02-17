@@ -5,6 +5,6 @@
 - Nodejs
 - Typescript
 - Prisma
-- postgreSQL
+- PostgreSQL
 ## Credits:
 - Essa aplicação foi feita em uma aula da Rocketseat, ministrada pela Daniele Leão.
